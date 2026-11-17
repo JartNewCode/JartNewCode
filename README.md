@@ -8,8 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/JartNewCode/Jartick"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-jartick-dark.svg"><img src="assets/project-jartick-light.svg" width="49%" alt="Jartick"></picture></a>&nbsp;<a href="https://github.com/JartNewCode/NeoForge-Tutorial"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-neoforge-tutorial-dark.svg"><img src="assets/project-neoforge-tutorial-light.svg" width="49%" alt="NeoForge-Tutorial"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
