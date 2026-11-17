@@ -1,8 +1,8 @@
 {
- "key": "9676f90b",
- "stars": 2,
- "contributions": 28,
- "repos": 3,
+ "key": "ecd0a9d7",
+ "stars": 3,
+ "contributions": 14,
+ "repos": 2,
  "followers": 1,
  "languages": [
   [
@@ -18,7 +18,7 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 0,
     "day": 2,
     "today": false
    },
@@ -92,7 +92,7 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 0,
     "day": 16,
     "today": false
    },
@@ -108,8 +108,8 @@
   ]
  ],
  "streak": {
-  "current": 2,
-  "longest": 2
+  "current": 1,
+  "longest": 1
  },
  "pins": [],
  "all": [
@@ -118,17 +118,8 @@
    "url": "https://github.com/JartNewCode/NeoForge-Tutorial",
    "text": "My mod in minecraft 1.21.1 NeoForge",
    "fork": false,
-   "stars": 1,
+   "stars": 2,
    "language": "Java",
-   "topics": []
-  },
-  {
-   "name": "Jartick",
-   "url": "https://github.com/JartNewCode/Jartick",
-   "text": "My profile",
-   "fork": false,
-   "stars": 1,
-   "language": null,
    "topics": []
   },
   {
@@ -136,7 +127,7 @@
    "url": "https://github.com/JartNewCode/JartNewCode",
    "text": "Profile",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": null,
    "topics": []
   }
