@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "login": "JartNewCode",
+  "seed": "#FF8A3D",
+  "seedFromAvatar": false,
+  "scheme": "vibrant",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "",
+    "subtitle": "I am a Junior Go and Backend Developer",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Earth"
+      },
+      {
+        "icon": "code",
+        "label": "Golang"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer "
+      },
+      {
+        "icon": "code",
+        "label": "Mostly Backend"
+      },
+      {
+        "icon": "favorite",
+        "label": "Very charming"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:go",
+            "label": "Golang"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:openjdk",
+            "label": "Java"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:goland",
+            "label": "Goland"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {
+      "NeoForge-Tutorial": {
+        "text": "My mod in minecraft 1.21.1 NeoForge"
+      },
+      "Jartick": {
+        "text": "My profile"
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:x",
+        "url": "https://x.com/JartNewCode"
+      },
+      {
+        "icon": "brand:youtube",
+        "url": "https://www.youtube.com/@JartNewCode"
+      },
+      {
+        "icon": "brand:github",
+        "url": "https://github.com/JartNewCode"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "https://github.com/JartNewCode?tab=repositories",
+        "style": "tonal"
+      }
+    ]
+  }
+}
